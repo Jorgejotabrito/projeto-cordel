@@ -5,8 +5,8 @@
 
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
-    --fonte2: Sriracha, cursive;
-    --fonte3: Passion One, cursive;
+    --fonte2: 'Sriracha', cursive;
+    --fonte3: 'Passion One', cursive;
 }
 
 *{
